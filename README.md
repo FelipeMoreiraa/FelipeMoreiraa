@@ -3,8 +3,8 @@
 
 
 <div style="inline-block" id="status">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=tjbass2021&show_icons=true&theme=tokyonight">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjbass2021&layout=compact&theme=tokyonight">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=felipe-science&show_icons=true&theme=tokyonight">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-science&layout=compact&theme=tokyonight">
 </div>
 
   ##
