@@ -1,6 +1,15 @@
 ### Hi there 👋
 
+### Hi there, My name is Felipe 👋
 
+- 🔭 I’m currently working on Condensed Matter physics theory
+- 🌱 I'm currently working on Biological Physics
+- 📫 How to reach me: felipemoreira.physics@gmail.com
+
+
+Bachelor in physics at Federal University of Rio Grande do Norte (UFRN)
+Master degree in physics at Federal University of Paraíba (UFPB)
+I am currently a doctoral student in physics at UFPB
 
 <div style="inline-block" id="status">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=felipe-science&show_icons=true&theme=tokyonight">
