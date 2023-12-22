@@ -8,7 +8,9 @@
 
 
 Bachelor in physics at Federal University of Rio Grande do Norte (UFRN)
+
 Master degree in physics at Federal University of Paraíba (UFPB)
+
 I am currently a doctoral student in physics at UFPB
 
 <div style="inline-block" id="status">
